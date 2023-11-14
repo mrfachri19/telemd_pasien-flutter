@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523626659092",
+    "project_id": "teleflutter",
+    "storage_bucket": "teleflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523626659092:android:d1e2c56d1e0908465b5601",
+        "android_client_info": {
+          "package_name": "com.pkp.telemedicine_pasien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523626659092-jci4jijosnj9f15qln4vb4pht606fkhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSD7M3OuiGe-0GD9ixOZHDrcUA_DbLyVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523626659092-jci4jijosnj9f15qln4vb4pht606fkhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
